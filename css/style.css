@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.container {
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(51, 40, 151);
+  font-size: 1.5rem;
+}
+
+#map {
+  margin: 20px 0;
+  border-radius: 10px;
+  height: 400px;
+  box-shadow:  0 0 8px rgb(110, 96, 175);
+}
